@@ -1,0 +1,30 @@
+/frontend
+/test.py
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables (SENSITIVE)
+.env
+.env.local
+.env.*.local
+
+node_modules/
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+.venv/
+.env
